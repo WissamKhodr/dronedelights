@@ -1,0 +1,159 @@
+{
+  "produkter": [
+    {
+      "id": 1,
+      "namn": "Drönarburgare",
+      "beskrivning": "Vår egen saftiga burgare levererad med drönare.",
+      "pris": 129,
+      "kategori": "Huvudrätter",
+      "bildUrl": "/images/burgare.jpg"
+    },
+    {
+      "id": 2,
+      "namn": "Flygande Fisk",
+      "beskrivning": "Färsk fisk fångad och levererad samma dag.",
+      "pris": 189,
+      "kategori": "Huvudrätter",
+      "bildUrl": "/images/fisk.jpg"
+    },
+    {
+      "id": 3,
+      "namn": "Curry Soppa",
+      "beskrivning": "Dagens soppa, varm och klar för landning.",
+      "pris": 79,
+      "kategori": "Förrätter",
+      "bildUrl": "/images/soppa.jpg"
+    },
+    {
+      "id": 4,
+      "namn": "Fluffig Cheesecake",
+      "beskrivning": "Lätt och fluffig cheesecake.",
+      "pris": 69,
+      "kategori": "Efterrätter",
+      "bildUrl": "/images/cheesecake.jpg"
+    },
+    {
+      "id": 5,
+      "namn": "Turbodrink",
+      "beskrivning": "Ger dig energi att flyga!",
+      "pris": 35,
+      "kategori": "Drycker",
+      "bildUrl": "/images/dryck.jpg"
+    }
+  ],
+  "bestallningar": [
+    {
+      "id": 1747828670691,
+      "produkter": [
+        {
+          "id": 2,
+          "namn": "Flygande Fisk",
+          "beskrivning": "Färsk fisk fångad och levererad samma dag.",
+          "pris": 189,
+          "kategori": "Huvudrätter",
+          "bildUrl": "/images/fisk.jpg",
+          "kvantitet": 1
+        }
+      ],
+      "totalPris": 189,
+      "leverans": {
+        "namn": "awdwdadwaawd",
+        "stad": "wadadwadwawd",
+        "gata": "awdadwdaw",
+        "husnummer": "3"
+      },
+      "paymentMethod": "swish",
+      "datum": "2025-05-21T11:57:50.691Z"
+    },
+    {
+      "id": 1747828717796,
+      "produkter": [
+        {
+          "id": 2,
+          "namn": "Flygande Fisk",
+          "beskrivning": "Färsk fisk fångad och levererad samma dag.",
+          "pris": 189,
+          "kategori": "Huvudrätter",
+          "bildUrl": "/images/fisk.jpg",
+          "kvantitet": 1
+        }
+      ],
+      "totalPris": 189,
+      "leverans": {
+        "namn": "wdaadwdaw",
+        "stad": "wadwaddwa",
+        "gata": "adwwaddwa",
+        "husnummer": "22"
+      },
+      "paymentMethod": "kort",
+      "datum": "2025-05-21T11:58:37.796Z"
+    },
+    {
+      "id": 1748011012814,
+      "produkter": [
+        {
+          "id": 2,
+          "namn": "Flygande Fisk",
+          "beskrivning": "Färsk fisk fångad och levererad samma dag.",
+          "pris": 189,
+          "kategori": "Huvudrätter",
+          "bildUrl": "/images/fisk.jpg",
+          "kvantitet": 1
+        },
+        {
+          "id": 3,
+          "namn": "Curry Soppa",
+          "beskrivning": "Dagens soppa, varm och klar för landning.",
+          "pris": 79,
+          "kategori": "Förrätter",
+          "bildUrl": "/images/soppa.jpg",
+          "kvantitet": 1
+        },
+        {
+          "id": 4,
+          "namn": "Fluffig Cheesecake",
+          "beskrivning": "Lätt och fluffig cheesecake.",
+          "pris": 69,
+          "kategori": "Efterrätter",
+          "bildUrl": "/images/cheesecake.jpg",
+          "kvantitet": 1
+        },
+        {
+          "id": 1,
+          "namn": "Drönarburgare",
+          "beskrivning": "Vår egen saftiga burgare levererad med drönare.",
+          "pris": 129,
+          "kategori": "Huvudrätter",
+          "bildUrl": "/images/burgare.jpg",
+          "kvantitet": 1
+        },
+        {
+          "id": 5,
+          "namn": "Turbodrink",
+          "beskrivning": "Ger dig energi att flyga!",
+          "pris": 35,
+          "kategori": "Drycker",
+          "bildUrl": "/images/dryck.jpg",
+          "kvantitet": 1
+        }
+      ],
+      "totalPris": 501,
+      "leverans": {
+        "namn": "wdadwadwa",
+        "stad": "wadwdawdaawd",
+        "gata": "wdaawdadwadw",
+        "husnummer": "22"
+      },
+      "paymentMethod": "swish",
+      "datum": "2025-05-23T14:36:52.814Z"
+    }
+  ],
+  "anvandare": [
+    {
+      "id": 1,
+      "anvandarnamn": "user",
+      "losenord": "password",
+      "favoriter": []
+    }
+  ]
+}
